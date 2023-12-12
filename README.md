@@ -1,5 +1,5 @@
 # dotFiles
 
-This are some of my dotFiles for Hyprland config.
+dot files for Hyprland setup
 
 <img src="assets/overview.png" alt="Overview"/>
